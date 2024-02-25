@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-image: url("https://cdn.abcotvs.com/dip/images/24996_kgo-windows-bliss-040714-1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
